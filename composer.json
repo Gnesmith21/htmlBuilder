@@ -2,7 +2,7 @@
     "name": "gn/htmlbuilder",
     "description": "HTML Builder for PHP to take all of the heavy lifting out of writing HTML",
     "type": "library",
-    "license": "apache2",
+    "license": "Apache-2.0",
     "autoload": {
         "psr-4": {
             "Gn\\Htmlbuilder\\": "src/"
