@@ -1,0 +1,19 @@
+{
+    "name": "gn/htmlbuilder",
+    "description": "HTML Builder for PHP to take all of the heavy lifting out of writing HTML",
+    "type": "library",
+    "license": "apache2",
+    "autoload": {
+        "psr-4": {
+            "Gn\\Htmlbuilder\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Gavin Nesmith",
+            "email": "grnesmith@gmail.com"
+        }
+    ],
+    "minimum-stability": "RC",
+    "require": {}
+}
